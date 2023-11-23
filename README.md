@@ -1,8 +1,4 @@
-### Hello!,
----
-
-![Antonin's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoninhc&show_icons=true&theme=radical)
-
+### Hello !
 
 **Stacks**<br />
 ---
